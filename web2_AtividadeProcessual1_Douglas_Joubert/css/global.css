@@ -1,0 +1,10 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    object-fit: contain;
+}
+.logotipo{
+    width: 60px;
+}

@@ -1,0 +1,8 @@
+.feature-img{
+  max-width: 30%;
+}
+
+.esquerda {
+  float: left;
+  max-width: 60px;
+}
